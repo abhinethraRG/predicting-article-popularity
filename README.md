@@ -66,6 +66,6 @@ Models were evaluated using RMSPE for regression and accuracy, AUC, and F1 Score
   Gained hands-on experience in preprocessing, handling missing/skewed values, and transforming a continuous target into binary classes for classification. Practiced end-to-end ML workflow on a complex, high-dimensional dataset.
 
 ## 🗂️ Files
-[📄Project Report](./Predicting_Article_Popularity_Abhinethra.html)
+[📄Project Report](./Predicting_Article_Popularity.html)
 
 ---
