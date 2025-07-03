@@ -29,6 +29,6 @@ Python, Scikit-learn, Pandas, Matplotlib, Jupyter
 - Converting insights into actionable recommendations
 
 ## 🗂️ Files
-file:///C:/SMU/winter%20term/ML%20and%20AI/final%20project/Predicting_Article_Popularity_Abhinethra.html
+
 
 ---
